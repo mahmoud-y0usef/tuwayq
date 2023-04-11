@@ -2078,7 +2078,7 @@ ul.minicart .cart-price .new {
 }
 .released-game-content h4::before {
 	content: "";
-	background-image: url(../img/images/released_game_brush.png);
+	background-image: url(../img/images/releasedgamebrush.png);
 	position: absolute;
 	right: -50px;
 	top: 0;
