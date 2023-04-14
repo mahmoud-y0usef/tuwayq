@@ -1249,7 +1249,7 @@ ul.minicart .cart-price .new {
 .slider-style-two {
 	background-image: url(../img/rules/19.png);
 	background-repeat: no-repeat;
-	background-size: 100%;
+	background-size: cover;
 	padding: 290px 0 190px;
 	position: relative;
 	z-index: 1;
