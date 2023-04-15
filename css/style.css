@@ -766,7 +766,6 @@ ul.minicart .cart-price .new {
     top: 0;
     width: 100%;
     z-index: 99;
-    background-image: url(../img/bg/header_bg.jpg);
     -webkit-animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
     animation: 1000ms ease-in-out 0s normal none 1 running fadeInDown;
     -webkit-box-shadow: 0 10px 15px rgba(25, 25, 25, 0.1);
@@ -2556,7 +2555,7 @@ ul.minicart .cart-price .new {
 	color: #1c1121;
 }
 .latest-match-bg {
-	background-image: url(../img/bg/latest_match_bg.jpg);
+	background-color: #0e0f15;
 	background-position: center;
 	background-size: cover;
 }
@@ -6756,7 +6755,7 @@ li{
     background: #1a1919; 
 }
 .police{
-	background-image: url(../img/rules/19.gif);
+	background-image: url('https://gif1-137a0.firebaseapp.com/police.gif');
 	padding-top: 275px;
 	padding-bottom: 170px;
 	background-position: center;
