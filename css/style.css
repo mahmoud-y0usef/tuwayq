@@ -6788,3 +6788,9 @@ li{
 	top: -142px;
 
 }
+.gameplay-content h5 a{
+	font-size: 20px;
+	color: rgb(196,183,92);
+	position: absolute;
+	left: 173px;
+}
